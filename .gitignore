@@ -114,3 +114,10 @@ tmp/
 debug/
 sessions/
 uploads/
+
+
+#Ide
+**/*.code-workspace
+
+#Macos
+**/.DS_Store
